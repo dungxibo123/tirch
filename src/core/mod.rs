@@ -1,1 +1,1 @@
-pub mod vector;
+pub(crate) mod vector;
